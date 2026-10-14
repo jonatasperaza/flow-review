@@ -1,0 +1,8 @@
+{
+  "name": "flow-review",
+  "description": "Mapeia o fluxo real de um sistema a partir do código, desenha o diagrama com referências arquivo:linha, opina criticamente e registra aprovação/reprovação por item.",
+  "version": "0.1.0",
+  "author": { "name": "Jonatas Silva Peraza" },
+  "license": "MIT",
+  "keywords": ["skill", "flow", "review", "diagram", "mermaid"]
+}

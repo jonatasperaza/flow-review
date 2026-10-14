@@ -1,0 +1,11 @@
+{
+  "name": "flow-review",
+  "owner": { "name": "Jonatas Silva Peraza" },
+  "plugins": [
+    {
+      "name": "flow-review",
+      "source": "./plugins/flow-review",
+      "description": "Mapeia o fluxo real do código, opina item a item e deixa você aprovar antes de qualquer mudança."
+    }
+  ]
+}
